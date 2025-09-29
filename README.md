@@ -4,6 +4,8 @@ personl website of shanid sajjatuz islam
 <img width="1887" height="1052" alt="image" src="https://github.com/user-attachments/assets/b24c3340-59f2-4cdd-b38d-eceb678fde65" />
 <img width="1892" height="1040" alt="image" src="https://github.com/user-attachments/assets/1eb3d583-5700-4380-a03e-3cf5273246d5" />
 <img width="1866" height="1033" alt="image" src="https://github.com/user-attachments/assets/bf702a9a-6904-4ae6-9c85-887442ec7e5d" />
+url:https://portfolio-of-shanid.onrender.com
+github:https://github.com/perashanid/Portfolio_v1
 
 Algotrader:
 user can make their won algarthim to compete with wallstreet , they can make their own constraint about when to buy and sell, 
@@ -20,6 +22,8 @@ based on us stocks
 
 <img width="1879" height="1038" alt="image" src="https://github.com/user-attachments/assets/1a6072a8-7b61-4e83-84c7-461c36187730" />
 <img width="1889" height="1035" alt="image" src="https://github.com/user-attachments/assets/fd8a6b44-f41f-4e0a-bf0c-1876e29a34f1" />
+url:https://algotrade-v1.onrender.com
+github:https://github.com/perashanid/algotrade
 
 
 BookMarket:
@@ -34,6 +38,8 @@ people can auction, trade or sell books at a fixed price.people can also share b
 
 
 <img width="1899" height="1052" alt="image" src="https://github.com/user-attachments/assets/36b71170-63ad-4f1b-a437-890616cc9738" />
+url:https://book-marketplace-bfo0.onrender.com
+github:https://github.com/perashanid/Book-marketplace-v2
 
 survey platform :
 
@@ -47,6 +53,8 @@ user can make private a publiic suevey , with a better  analytics section , user
 
 <img width="1861" height="1045" alt="image" src="https://github.com/user-attachments/assets/d76febc9-9365-4989-901d-d207ac2e4d99" />
 <img width="1847" height="1056" alt="image" src="https://github.com/user-attachments/assets/36a54a64-6852-4abe-9a01-1843a04bf394" />
+url:https://survease-v2-uppv.onrender.com
+github:https://github.com/perashanid/survease_v2
 
 
 campaign builder:
@@ -59,7 +67,8 @@ user can create fundraising and blood donation  campaigns, share the unique linn
 <img width="1900" height="1079" alt="image" src="https://github.com/user-attachments/assets/6f67c57d-3fc7-4aeb-a1b6-ea70df1de2bd" />
 
 <img width="1888" height="974" alt="image" src="https://github.com/user-attachments/assets/f0329efb-1125-4da3-a3bf-8a9d7d42305e" />
-
+url:https://campaignbuilder.onrender.com
+github:https://github.com/perashanid/campaignBuilder
 
 
 research paper analyzer:
@@ -78,12 +87,17 @@ user can give  links, pdf , url  and get necessary information form a research p
 
 <img width="1803" height="1031" alt="image" src="https://github.com/user-attachments/assets/ed1a67af-0f79-44ec-a4e3-938e75272ed7" />
 
+url:https://research-paper-analyzer-htn7.onrender.com
+github:https://github.com/perashanid/ai-wrapper
+
 BD Stock marker API:
 user can use and check the only free api for bd stock market
 
 <img width="1892" height="1051" alt="image" src="https://github.com/user-attachments/assets/4b4c4e6a-7989-4d13-a782-331a4f3cacaa" />
 
 <img width="1853" height="817" alt="image" src="https://github.com/user-attachments/assets/d2573a43-58f1-4452-9131-ff5f30d13152" />
+url:https://bd-stock-market-api.onrender.com
+github:https://github.com/perashanid/bd-stock-market-api
 
 Stock market BD:
 
@@ -100,6 +114,9 @@ user can see the stocks of bd, stocks profile , top 30 stocks, register and crea
 
 <img width="1895" height="1049" alt="image" src="https://github.com/user-attachments/assets/7b2f752c-4f31-435e-be8d-59dfb653f456" />
 
+url:https://bangladesh-stock-market.onrender.com
+github:https://github.com/perashanid/stock-market
+
 
 media biased detechtor:
 this is a website which detechs biased on media articles 
@@ -114,16 +131,23 @@ user can register , scrape by url or the website and also select how much they w
 <img width="1900" height="987" alt="image" src="https://github.com/user-attachments/assets/5635e95b-cd55-4e97-a444-f0bf84c757d9" />
 
 <img width="1910" height="1053" alt="image" src="https://github.com/user-attachments/assets/048d5fcc-2540-46a9-8c6a-94e52a91112c" />
+
+url:https://media-bias-a9x2.onrender.com
+github:https://github.com/perashanid/Media-bias
+
 loading terminal:
 <img width="1912" height="1065" alt="image" src="https://github.com/user-attachments/assets/89fb6402-3b84-4c02-bf14-d893dc00dc97" />
 <img width="1900" height="1056" alt="image" src="https://github.com/user-attachments/assets/7eef0006-6501-40a7-bf1b-972c3fa8e2c4" />
-
+url:https://loading-terminal.onrender.com
+github:https://github.com/perashanid/loading-terminal
 
 calculator app
 
 A basic calculator app
 
 <img width="1918" height="1070" alt="image" src="https://github.com/user-attachments/assets/947584d6-3250-4188-af8c-40dcaa71b52b" />
+url:https://basic-calculator-uwvp.onrender.com
+github:https://github.com/perashanid/basic_calculator
 
 
 404 page:
@@ -132,7 +156,14 @@ a basic 404 page with space shooter in browser gamme
 
 <img width="1809" height="940" alt="image" src="https://github.com/user-attachments/assets/5bb32154-5d53-4b43-bf8d-faa188d78003" />
 <img width="1073" height="854" alt="image" src="https://github.com/user-attachments/assets/5a946c78-416d-44d3-a62e-a6292c306c6d" />
+url:https://four04-space-shooter.onrender.com
+github:https://github.com/perashanid/404_space_shooter
 
+undermaintainaance website:
+just a basic placeholder website
+url:https://under-maintenance-website-page.onrender.com
+githyb:https://github.com/perashanid/Under_maintenance_website_page
+<img width="1916" height="1085" alt="image" src="https://github.com/user-attachments/assets/5c494bc7-61bc-46ee-b573-402ae598f6b5" />
 
 
 
