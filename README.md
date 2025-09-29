@@ -165,6 +165,14 @@ url:https://under-maintenance-website-page.onrender.com
 githyb:https://github.com/perashanid/Under_maintenance_website_page
 <img width="1916" height="1085" alt="image" src="https://github.com/user-attachments/assets/5c494bc7-61bc-46ee-b573-402ae598f6b5" />
 
+online cv veiwer:
+shanids cv online veiwer
+<img width="1911" height="1057" alt="image" src="https://github.com/user-attachments/assets/7d57fc39-4513-4953-b477-23f7972327d2" />
+url:https://shanid-cv.vercel.app/
+github:https://github.com/perashanid/personal-cv
+
+
+
 
 
 
