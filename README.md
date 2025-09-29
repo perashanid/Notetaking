@@ -132,7 +132,7 @@ a basic 404 page with space shooter in browser gamme
 
 <img width="1809" height="940" alt="image" src="https://github.com/user-attachments/assets/5bb32154-5d53-4b43-bf8d-faa188d78003" />
 <img width="1073" height="854" alt="image" src="https://github.com/user-attachments/assets/5a946c78-416d-44d3-a62e-a6292c306c6d" />
-loading terminal
+
 
 
 
