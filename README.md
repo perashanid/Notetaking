@@ -172,6 +172,14 @@ url:https://shanid-cv.vercel.app/
 github:https://github.com/perashanid/personal-cv
 
 
+ping website:
+
+pings my other website hosted on render so they dont go to sleep, a good to have tool for aspiring developers who wants to make dyanmic web application 
+
+<img width="1911" height="1066" alt="image" src="https://github.com/user-attachments/assets/15f7be24-1c66-4c04-9e7d-71ce1027a405" />
+
+
+<img width="1901" height="1046" alt="image" src="https://github.com/user-attachments/assets/dac37334-ff29-4947-9d84-53aa64c04fa9" />
 
 
 
