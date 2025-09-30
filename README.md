@@ -4,6 +4,9 @@ personl website of shanid sajjatuz islam
 <img width="1887" height="1052" alt="image" src="https://github.com/user-attachments/assets/b24c3340-59f2-4cdd-b38d-eceb678fde65" />
 <img width="1892" height="1040" alt="image" src="https://github.com/user-attachments/assets/1eb3d583-5700-4380-a03e-3cf5273246d5" />
 <img width="1866" height="1033" alt="image" src="https://github.com/user-attachments/assets/bf702a9a-6904-4ae6-9c85-887442ec7e5d" />
+
+
+
 url:https://portfolio-of-shanid.onrender.com
 github:https://github.com/perashanid/Portfolio_v1
 
@@ -22,6 +25,8 @@ based on us stocks
 
 <img width="1879" height="1038" alt="image" src="https://github.com/user-attachments/assets/1a6072a8-7b61-4e83-84c7-461c36187730" />
 <img width="1889" height="1035" alt="image" src="https://github.com/user-attachments/assets/fd8a6b44-f41f-4e0a-bf0c-1876e29a34f1" />
+
+
 url:https://algotrade-v1.onrender.com
 github:https://github.com/perashanid/algotrade
 
@@ -38,6 +43,8 @@ people can auction, trade or sell books at a fixed price.people can also share b
 
 
 <img width="1899" height="1052" alt="image" src="https://github.com/user-attachments/assets/36b71170-63ad-4f1b-a437-890616cc9738" />
+
+
 url:https://book-marketplace-bfo0.onrender.com
 github:https://github.com/perashanid/Book-marketplace-v2
 
@@ -53,6 +60,9 @@ user can make private a publiic suevey , with a better  analytics section , user
 
 <img width="1861" height="1045" alt="image" src="https://github.com/user-attachments/assets/d76febc9-9365-4989-901d-d207ac2e4d99" />
 <img width="1847" height="1056" alt="image" src="https://github.com/user-attachments/assets/36a54a64-6852-4abe-9a01-1843a04bf394" />
+
+
+
 url:https://survease-v2-uppv.onrender.com
 github:https://github.com/perashanid/survease_v2
 
@@ -67,6 +77,9 @@ user can create fundraising and blood donation  campaigns, share the unique linn
 <img width="1900" height="1079" alt="image" src="https://github.com/user-attachments/assets/6f67c57d-3fc7-4aeb-a1b6-ea70df1de2bd" />
 
 <img width="1888" height="974" alt="image" src="https://github.com/user-attachments/assets/f0329efb-1125-4da3-a3bf-8a9d7d42305e" />
+
+
+
 url:https://campaignbuilder.onrender.com
 github:https://github.com/perashanid/campaignBuilder
 
@@ -91,11 +104,15 @@ url:https://research-paper-analyzer-htn7.onrender.com
 github:https://github.com/perashanid/ai-wrapper
 
 BD Stock marker API:
+
+
 user can use and check the only free api for bd stock market
 
 <img width="1892" height="1051" alt="image" src="https://github.com/user-attachments/assets/4b4c4e6a-7989-4d13-a782-331a4f3cacaa" />
 
 <img width="1853" height="817" alt="image" src="https://github.com/user-attachments/assets/d2573a43-58f1-4452-9131-ff5f30d13152" />
+
+
 url:https://bd-stock-market-api.onrender.com
 github:https://github.com/perashanid/bd-stock-market-api
 
@@ -119,6 +136,8 @@ github:https://github.com/perashanid/stock-market
 
 
 media biased detechtor:
+
+
 this is a website which detechs biased on media articles 
 user can register , scrape by url or the website and also select how much they want to scrape , runs biased test,faurite them , save the articles 
 
@@ -136,8 +155,12 @@ url:https://media-bias-a9x2.onrender.com
 github:https://github.com/perashanid/Media-bias
 
 loading terminal:
+
+
 <img width="1912" height="1065" alt="image" src="https://github.com/user-attachments/assets/89fb6402-3b84-4c02-bf14-d893dc00dc97" />
 <img width="1900" height="1056" alt="image" src="https://github.com/user-attachments/assets/7eef0006-6501-40a7-bf1b-972c3fa8e2c4" />
+
+
 url:https://loading-terminal.onrender.com
 github:https://github.com/perashanid/loading-terminal
 
@@ -146,6 +169,8 @@ calculator app
 A basic calculator app
 
 <img width="1918" height="1070" alt="image" src="https://github.com/user-attachments/assets/947584d6-3250-4188-af8c-40dcaa71b52b" />
+
+
 url:https://basic-calculator-uwvp.onrender.com
 github:https://github.com/perashanid/basic_calculator
 
@@ -160,9 +185,12 @@ url:https://four04-space-shooter.onrender.com
 github:https://github.com/perashanid/404_space_shooter
 
 undermaintainaance website:
+
 just a basic placeholder website
+
 url:https://under-maintenance-website-page.onrender.com
-githyb:https://github.com/perashanid/Under_maintenance_website_page
+github:https://github.com/perashanid/Under_maintenance_website_page
+
 <img width="1916" height="1085" alt="image" src="https://github.com/user-attachments/assets/5c494bc7-61bc-46ee-b573-402ae598f6b5" />
 
 online cv veiwer:
@@ -181,6 +209,9 @@ pings my other website hosted on render so they dont go to sleep, a good to have
 
 <img width="1901" height="1046" alt="image" src="https://github.com/user-attachments/assets/dac37334-ff29-4947-9d84-53aa64c04fa9" />
 
+url:https://ping-website-hyfa.onrender.com
+github:https://github.com/perashanid/ping-website
+
 ai-blog:
 
 <img width="1900" height="1062" alt="image" src="https://github.com/user-attachments/assets/f879b4b6-d9ce-4490-b770-76e51c8a3d1f" />
@@ -194,7 +225,7 @@ ai-blog:
 <img width="1880" height="1056" alt="image" src="https://github.com/user-attachments/assets/42a6e0f8-ec6f-4d49-a2d6-f15bd3c5f72e" />
 <img width="1901" height="1038" alt="image" src="https://github.com/user-attachments/assets/004c32ea-86d6-4ee0-819c-c00a2b455891" />
 
-
-
+url:https://ai-blog-kq8c.onrender.com
+github:https://github.com/perashanid/ai-blog
 
 
