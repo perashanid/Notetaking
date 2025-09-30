@@ -181,6 +181,20 @@ pings my other website hosted on render so they dont go to sleep, a good to have
 
 <img width="1901" height="1046" alt="image" src="https://github.com/user-attachments/assets/dac37334-ff29-4947-9d84-53aa64c04fa9" />
 
+ai-blog:
+
+<img width="1900" height="1062" alt="image" src="https://github.com/user-attachments/assets/f879b4b6-d9ce-4490-b770-76e51c8a3d1f" />
+
+
+<img width="1900" height="1059" alt="image" src="https://github.com/user-attachments/assets/e7b99d21-1ceb-4d4e-9dee-e2b4d611d4a5" />
+
+<img width="1898" height="1057" alt="image" src="https://github.com/user-attachments/assets/7eacc37d-263a-48de-a16b-71e692ca9e9f" />
+<img width="1899" height="1063" alt="image" src="https://github.com/user-attachments/assets/598f85a0-3028-4afe-968b-0a969aa108bf" />
+
+<img width="1880" height="1056" alt="image" src="https://github.com/user-attachments/assets/42a6e0f8-ec6f-4d49-a2d6-f15bd3c5f72e" />
+<img width="1901" height="1038" alt="image" src="https://github.com/user-attachments/assets/004c32ea-86d6-4ee0-819c-c00a2b455891" />
+
+
 
 
 
