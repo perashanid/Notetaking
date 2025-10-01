@@ -229,3 +229,8 @@ url:https://ai-blog-kq8c.onrender.com
 github:https://github.com/perashanid/ai-blog
 
 
+task maangement:
+<img width="1915" height="1063" alt="image" src="https://github.com/user-attachments/assets/7daec439-0c31-43d7-a7d9-af77e1d11c1f" />
+
+<img width="1780" height="1002" alt="image" src="https://github.com/user-attachments/assets/a5af1cd6-9dcd-4fe8-8263-b2c94f83e64b" />
+
